@@ -19,7 +19,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/yogeshwaran-ramesh/mobx-tutorial"
           target="_blank"
           rel="noopener noreferrer"
         >
